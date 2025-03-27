@@ -1,0 +1,3 @@
+{"level":"info","message":"Calculator microservice running on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming GET request to /divide?num1=10&num2=6","metadata":{"body":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","host":"localhost:3000","postman-token":"5d572ba1-cb6d-40b6-8176-b2a4761d617d","user-agent":"PostmanRuntime/7.43.0"},"ip":"::1"},"service":"calculator-microservice"}
+{"level":"info","message":"Division operation: 10 / 6 = 1.6666666666666667","service":"calculator-microservice"}
